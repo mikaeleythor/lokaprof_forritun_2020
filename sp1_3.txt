@@ -1,0 +1,13 @@
+Hvernig ætla ég að gera það
+
+while count:
+
+	function sem tekur inn input str
+	og skilar  'name', int(votes), count(bool)
+
+	function sem tekur inn dict, 'name', int(votes)
+	og skilar uppfærðu dict með key = 'name, val = int(votes)
+
+	function sem tekur inn dict og prentar
+	candidates og samsvarandi votes í stafrófsröð
+	heildarfjölda votes

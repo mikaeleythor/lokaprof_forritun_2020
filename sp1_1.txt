@@ -1,0 +1,13 @@
+Hvað gerir forritið
+
+promptar user um input nafn og tölu
+
+	villumelding ef input er ekki valid
+
+þangað til user gefur ekki input
+
+heldur utan um nöfn og samsvarandi tölur
+
+prentar nöfn og summu samsvarandi talna
+
+prentar summu allra talna

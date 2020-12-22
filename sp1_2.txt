@@ -1,0 +1,9 @@
+Hvað þarf ég að gera til að það virki
+
+while lykkja sem hættir þegar input == ''
+
+print statement þegar input er invalid
+
+dictionary með key = name.lower, value = int(votes)
+
+print function
